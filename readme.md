@@ -8,3 +8,5 @@
 
 - For fun
   - [Docker Thanos](https://github.com/rumpl/docker-thanos) - Kills half of your containers
+- Tools
+  - [Docker Nuke](https://github.com/ulyssessouza/docker-nuke-plugin) - Kill/Removes everything with FIRE
